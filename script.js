@@ -29,13 +29,12 @@
 
 
 
-// 4) მოცემული ორი ერეიდან იპოვეთ მსგავსი რიცხვები let arr1 = [1, 2, 3, 4];
-// let arr2 = [3, 4, 5, 6];
+// 4) მოცემული ორი ერეიდან იპოვეთ მსგავსი რიცხვები let arr1 = [1, 2, 3, 4];  let arr2 = [3, 4, 5, 6];
+
 // let arr1 = [1, 2, 3, 4];
 // let arr2 = [3, 4, 5, 6];
-// let arr3 = arr1.concat(arr2)
-// const duplicates = arr3.filter((item, index) => arr3.indexOf(item) !== index);
-// console.log(duplicates)
+//let commonNums = arr1.filter(value => arr2.includes(value));
+// console.log(commonNums)
 
 
 
